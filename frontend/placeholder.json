@@ -1,0 +1,15 @@
+{
+    "songs":[
+        {"id":"01","title":"SuperBase","artist":{"author":"Niki"},"duration":213,"album":{"cover":"nothing"},"preview":"none"},
+        {"id":"03","title":"SuperBase","artist":{"author":"Niki"},"duration":213,"album":{"cover":"nothing"},"preview":"none"},
+        {"id":"02","title":"SuperBase","artist":{"author":"Niki"},"duration":213,"album":{"cover":"nothing"},"preview":"none"},
+        {"id":"04","title":"SuperBase","artist":{"author":"Niki"},"duration":213,"album":{"cover":"nothing"},"preview":"none"},
+        {"id":"05","title":"SuperBase","artist":{"author":"Niki"},"duration":213,"album":{"cover":"nothing"},"preview":"none"},
+        {"id":"06","title":"SuperBase","artist":{"author":"Niki"},"duration":213,"album":{"cover":"nothing"},"preview":"none"},
+        {"id":"07","title":"SuperBase","artist":{"author":"Niki"},"duration":213,"album":{"cover":"nothing"},"preview":"none"},
+        {"id":"08","title":"SuperBase","artist":{"author":"Niki"},"duration":213,"album":{"cover":"nothing"},"preview":"none"},
+        {"id":"09","title":"SuperBase","artist":{"author":"Niki"},"duration":213,"album":{"cover":"nothing"},"preview":"none"},
+        {"id":"10","title":"SuperBase","artist":{"author":"Niki"},"duration":213,"album":{"cover":"./assets/Nintendo_Music_Google_Play_icon.png"},"preview":"none"}
+    
+    ]
+}
