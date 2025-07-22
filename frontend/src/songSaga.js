@@ -30,3 +30,5 @@ function* workerGetSongs(action){
     
     
 } 
+
+export default  watcherSongSaga
