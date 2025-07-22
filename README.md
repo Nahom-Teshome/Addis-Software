@@ -1,3 +1,5 @@
+This website is a simple react website that is bundled by webpack. It uses an music data api to fetch music and display it's title,artist, coverImage and a sample sound.
+
 My webpack setup includes an entry file, an output, which is the same as webpacks default output,except for the file name, 3 loaders ,a plugin and a devserver for quick refresh and ease of development.
 The first loader i used is the bable-loader, and it was used to transpile js and jsx syntax/files into common js syntax that can be understood by older browsers.
 The sencond one is an array of loaders, which are read from right to left, and used to interpret css, @import statements inside of css and to allow postcss configuration, the three loaders are style-loader, css-loader and postcss-loader.
